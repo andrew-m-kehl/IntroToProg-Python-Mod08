@@ -2,7 +2,7 @@ Andrew Kehl
 12/7/21
 UW Foundations in programming
 Assignment 08
-https://github.com/kehlstorm/IntroToProg-Python-Mod07/blob/main/docs/index.md
+https://github.com/kehlstorm/IntroToProg-Python-Mod08/blob/main/Assignment_08.py
 
 Introduction
 The objective of this assignment is to read and understand the pseudo-code provided and then add code to make the application work. Pseudo-code requirements include: Load data from a file into a list of product objects when the script starts. Show the user a menu of options. Get the users menu option choice. Show the user the current data in the list of product objects. Let the user add data to the list of product objects. Let the user save current data to file and exit.    
